@@ -1,0 +1,1389 @@
+[
+    {
+        "question": "What word represents the letter 'T' in the NATO phonetic alphabet?",
+        "correct_answer": "Tango",
+        "choices": [
+            "Target",
+            "Taxi",
+            "Turkey",
+            "Tango"
+        ],
+        "category": 9
+    },
+    {
+        "question": "Which slogan did the fast food company, McDonald's, use before their \"I'm Lovin' It\" slogan?",
+        "correct_answer": "We Love to See You Smile",
+        "choices": [
+            "Why Pay More!?",
+            "Have It Your Way",
+            "Making People Happy Through Food",
+            "We Love to See You Smile"
+        ],
+        "category": 9
+    },
+    {
+        "question": "What is a Burgee?",
+        "correct_answer": "A flag",
+        "choices": [
+            "A rope",
+            "A window",
+            "A type of food",
+            "A flag"
+        ],
+        "category": 9
+    },
+    {
+        "question": "What is a dead mall?",
+        "correct_answer": "A mall with high vacancy rates or low consumer foot traffic",
+        "choices": [
+            "A mall with no stores",
+            "A mall that has been condemed",
+            "A mall after business hours",
+            "A mall with high vacancy rates or low consumer foot traffic"
+        ],
+        "category": 9
+    },
+    {
+        "question": "What is the Spanish word for \"donkey\"?",
+        "correct_answer": "Burro",
+        "choices": [
+            "Caballo",
+            "Toro",
+            "Perro",
+            "Burro"
+        ],
+        "category": 9
+    },
+    {
+        "question": "What is the romanized Korean word for \"heart\"?",
+        "correct_answer": "Simjang",
+        "choices": [
+            "Aejeong",
+            "Jeongsin",
+            "Segseu",
+            "Simjang"
+        ],
+        "category": 9
+    },
+    {
+        "question": "What was the destination of the missing flight MH370?",
+        "correct_answer": "Beijing",
+        "choices": [
+            "Kuala Lumpur",
+            "Singapore",
+            "Tokyo",
+            "Beijing"
+        ],
+        "category": 9
+    },
+    {
+        "question": "When was the Declaration of Independence approved by the Second Continental Congress?",
+        "correct_answer": "July 4, 1776",
+        "choices": [
+            "May 4, 1776",
+            "June 4, 1776",
+            "July 2, 1776",
+            "July 4, 1776"
+        ],
+        "category": 9
+    },
+    {
+        "question": "What does a funambulist walk on?",
+        "correct_answer": "A Tight Rope",
+        "choices": [
+            "Broken Glass",
+            "Balls",
+            "The Moon",
+            "A Tight Rope"
+        ],
+        "category": 9
+    },
+    {
+        "question": "When someone is cowardly, they are said to have what color belly?",
+        "correct_answer": "Yellow",
+        "choices": [
+            "Green",
+            "Red",
+            "Blue",
+            "Yellow"
+        ],
+        "category": 9
+    },
+    {
+        "question": "What is the Zodiac symbol for Gemini?",
+        "correct_answer": "Twins",
+        "choices": [
+            "Fish",
+            "Scales",
+            "Maiden",
+            "Twins"
+        ],
+        "category": 9
+    },
+    {
+        "question": "Which of these companies does NOT manufacture automobiles?",
+        "correct_answer": "Ducati",
+        "choices": [
+            "Nissan",
+            "GMC",
+            "Fiat",
+            "Ducati"
+        ],
+        "category": 9
+    },
+    {
+        "question": "Which of the following languages does NOT use gender as a part of its grammar?",
+        "correct_answer": "Turkish",
+        "choices": [
+            "German",
+            "Danish",
+            "Polish",
+            "Turkish"
+        ],
+        "category": 9
+    },
+    {
+        "question": "Five dollars is worth how many nickles?",
+        "correct_answer": "100",
+        "choices": [
+            "50",
+            "25",
+            "69",
+            "100"
+        ],
+        "category": 9
+    },
+    {
+        "question": "Which company did Valve cooperate with in the creation of the Vive?",
+        "correct_answer": "HTC",
+        "choices": [
+            "Oculus",
+            "Google",
+            "Razer",
+            "HTC"
+        ],
+        "category": 9
+    },
+    {
+        "question": "In The Lies Of Locke Lamora, what does \"Lamora\" mean in Throne Therin?",
+        "correct_answer": "Shadow",
+        "choices": [
+            "Thievery",
+            "Justice",
+            "Chaos",
+            "Shadow"
+        ],
+        "category": 10
+    },
+    {
+        "question": "Which of the following is not a work authored by Fyodor Dostoevsky?",
+        "correct_answer": "Anna Karenina",
+        "choices": [
+            "Notes from the Underground",
+            "Crime and Punishment",
+            "The Brothers Karamazov",
+            "Anna Karenina"
+        ],
+        "category": 10
+    },
+    {
+        "question": "What is the name of Eragon's dragon in \"Eragon\"?",
+        "correct_answer": "Saphira",
+        "choices": [
+            "Glaedr",
+            "Thorn",
+            "Arya",
+            "Saphira"
+        ],
+        "category": 10
+    },
+    {
+        "question": "What is the title of the first Sherlock Holmes book by Arthur Conan Doyle?",
+        "correct_answer": "A Study in Scarlet",
+        "choices": [
+            "The Sign of the Four",
+            "A Case of Identity",
+            "The Doings of Raffles Haw",
+            "A Study in Scarlet"
+        ],
+        "category": 10
+    },
+    {
+        "question": "According to The Hitchhiker's Guide to the Galaxy book, the answer to life, the universe and everything else is...",
+        "correct_answer": "42",
+        "choices": [
+            "Loving everyone around you",
+            "Chocolate",
+            "Death",
+            "42"
+        ],
+        "category": 10
+    },
+    {
+        "question": "The novel \"Of Mice And Men\" was written by what author? ",
+        "correct_answer": "John Steinbeck ",
+        "choices": [
+            "George Orwell",
+            "Mark Twain ",
+            "Harper Lee",
+            "John Steinbeck "
+        ],
+        "category": 10
+    },
+    {
+        "question": "By what name was the author Eric Blair better known?",
+        "correct_answer": "George Orwell",
+        "choices": [
+            "Aldous Huxley",
+            "Ernest Hemingway",
+            "Ray Bradbury",
+            "George Orwell"
+        ],
+        "category": 10
+    },
+    {
+        "question": "What position does Harry Potter play in Quidditch?",
+        "correct_answer": "Seeker",
+        "choices": [
+            "Beater",
+            "Chaser",
+            "Keeper",
+            "Seeker"
+        ],
+        "category": 10
+    },
+    {
+        "question": "What is the name of the three headed dog in Harry Potter and the Sorcerer's Stone?",
+        "correct_answer": "Fluffy",
+        "choices": [
+            "Spike",
+            "Poofy",
+            "Spot",
+            "Fluffy"
+        ],
+        "category": 10
+    },
+    {
+        "question": "In the year 1818, novelist Mary Shelly is credited with writing a fiction novel and creating this infamous character.",
+        "correct_answer": "Frankenstein's monster",
+        "choices": [
+            "Dracula",
+            "The Thing",
+            "The Invisible Man",
+            "Frankenstein's monster"
+        ],
+        "category": 10
+    },
+    {
+        "question": "What three movies, in order from release date, make up the \"Dollars Trilogy\"?",
+        "correct_answer": "\"A Fistful of Dollars\", \"For a Few Dollars More\", \"The Good, the Bad, and the Ugly\"",
+        "choices": [
+            "\"The Good, the Bad, and the Ugly\", \"For A Few Dollars More\", \"A Fistful of Dollars\"",
+            "\"For a Few Dollars More\", \"The Good, the Bad, and the Ugly\", \"A Fistful of Dollars\"",
+            "\"For a Few Dollars More\", \"A Fistful of Dollars\", \"The Good, the Bad, and the Ugly\"",
+            "\"A Fistful of Dollars\", \"For a Few Dollars More\", \"The Good, the Bad, and the Ugly\""
+        ],
+        "category": 11
+    },
+    {
+        "question": "Who played the female lead in the 1933 film \"King Kong\"?",
+        "correct_answer": "Fay Wray",
+        "choices": [
+            "Jean Harlow",
+            "Vivien Leigh",
+            "Mae West",
+            "Fay Wray"
+        ],
+        "category": 11
+    },
+    {
+        "question": "The 2002 film \"28 Days Later\" is mainly set in which European country?",
+        "correct_answer": "United Kingdom",
+        "choices": [
+            "France",
+            "Italy",
+            "Germany",
+            "United Kingdom"
+        ],
+        "category": 11
+    },
+    {
+        "question": "In what year did Clint Eastwood star as Inspector Harry Callahan in the film \"Dirty Harry\"?",
+        "correct_answer": "1971",
+        "choices": [
+            "1975",
+            "1983",
+            "1969",
+            "1971"
+        ],
+        "category": 11
+    },
+    {
+        "question": "In the 1984 movie \"The Terminator\", what model number is the Terminator portrayed by Arnold Schwarzenegger?",
+        "correct_answer": "T-800",
+        "choices": [
+            "I-950",
+            "T-888",
+            "T-1000",
+            "T-800"
+        ],
+        "category": 11
+    },
+    {
+        "question": "In what year does Jurassic World open in the \"Jurassic Park\" universe?",
+        "correct_answer": "2005",
+        "choices": [
+            "2007",
+            "2015",
+            "2020",
+            "2005"
+        ],
+        "category": 11
+    },
+    {
+        "question": "Johnny Depp made his big-screen acting debut in which film?",
+        "correct_answer": "A Nightmare on Elm Street",
+        "choices": [
+            "My Bloody Valentine",
+            "Halloween",
+            "Friday the 13th",
+            "A Nightmare on Elm Street"
+        ],
+        "category": 11
+    },
+    {
+        "question": "Which director directed the movie \"Pan's Labyrinth\"?",
+        "correct_answer": "Guillermo Del Toro",
+        "choices": [
+            "Alfonso Cuarón",
+            "Alejandro González Iñárritu",
+            " Alejandro Jodorowsky",
+            "Guillermo Del Toro"
+        ],
+        "category": 11
+    },
+    {
+        "question": "Who is the main protagonist in, the 1985 film, Back to the Future?",
+        "correct_answer": "Marty McFly",
+        "choices": [
+            "Emmett \"Doc\" Brown",
+            "Biff Tannen",
+            "George McFly",
+            "Marty McFly"
+        ],
+        "category": 11
+    },
+    {
+        "question": "In the film \"Requiem for a Dream\", what drug does Jared Leto's character get addicted to?",
+        "correct_answer": "Heroin",
+        "choices": [
+            "Cocaine",
+            "Marijuana",
+            "Oxycodone",
+            "Heroin"
+        ],
+        "category": 11
+    },
+    {
+        "question": "Which of these songs by Skrillex features Fatman Scoop as a side artist?",
+        "correct_answer": "Recess",
+        "choices": [
+            "All is Fair in Love and Brostep",
+            "Rock N Roll (Will Take You to the Mountain)",
+            "Scary Monsters and Nice Sprites",
+            "Recess"
+        ],
+        "category": 12
+    },
+    {
+        "question": "Which Death Grips album is the only one to feature a band member?",
+        "correct_answer": "No Love Deep Web",
+        "choices": [
+            "Bottomless Pit",
+            "The Money Store",
+            "The Powers That B",
+            "No Love Deep Web"
+        ],
+        "category": 12
+    },
+    {
+        "question": "In 2015, David Hasselhof released a single called...",
+        "correct_answer": "True Survivor",
+        "choices": [
+            "True Fighter",
+            "Real Kung-Fury",
+            "Real Warrior",
+            "True Survivor"
+        ],
+        "category": 12
+    },
+    {
+        "question": "Which Beatle led the way across the zebra crossing on the Abbey Road album cover?",
+        "correct_answer": "John",
+        "choices": [
+            "Paul",
+            "George",
+            "Ringo",
+            "John"
+        ],
+        "category": 12
+    },
+    {
+        "question": "'74–'75 is a 1993 single from the album Ring by what American band?",
+        "correct_answer": "The Connells",
+        "choices": [
+            "R.E.M.",
+            "The Ocean Blue",
+            "The Bangles",
+            "The Connells"
+        ],
+        "category": 12
+    },
+    {
+        "question": "Which of these artists has NOT been a member of dancehall group Major Lazer?",
+        "correct_answer": "Skrillex",
+        "choices": [
+            "Diplo",
+            "Jillionaire",
+            "Walshy Fire",
+            "Skrillex"
+        ],
+        "category": 12
+    },
+    {
+        "question": "Which of these is NOT a song on The Beatles' 1968 self titled album, also known as the White album?",
+        "correct_answer": "Being For The Benefit Of Mr. Kite!",
+        "choices": [
+            "Why Don't We Do It in the Road?",
+            "Everybody's Got Something to Hide Except Me and My Monkey",
+            "The Continuing Story of Bungalow Bill",
+            "Being For The Benefit Of Mr. Kite!"
+        ],
+        "category": 12
+    },
+    {
+        "question": "What collaborative album was released by Kanye West and Jay-Z in 2011?",
+        "correct_answer": "Watch the Throne",
+        "choices": [
+            "Distant Relatives",
+            "What a Time to be Alive",
+            "Unfinished Business",
+            "Watch the Throne"
+        ],
+        "category": 12
+    },
+    {
+        "question": "Which of these are NOT a Men at Work song?",
+        "correct_answer": "Basket Case",
+        "choices": [
+            "Dr. Heckyll and Mr. Jive",
+            "Who Can It Be Now?",
+            "Be Good Johnny",
+            "Basket Case"
+        ],
+        "category": 12
+    },
+    {
+        "question": "What animal is featured on the cover of English electronic music group The Prodigy's album, \"The Fat of the Land\"?",
+        "correct_answer": "Crab",
+        "choices": [
+            "Fox",
+            "Elephant",
+            "Tiger",
+            "Crab"
+        ],
+        "category": 12
+    },
+    {
+        "question": "In \"PUBATTLEGROUNDS\" which ammo type does the M24 use?",
+        "correct_answer": "7.62mm",
+        "choices": [
+            "5.56mm",
+            "9mm",
+            ".300 Magnum",
+            "7.62mm"
+        ],
+        "category": 15
+    },
+    {
+        "question": "In \"Call Of Duty: Zombies\", completing which map's easter egg will reward you with the achievement, \"Time Travel Will Tell\"?",
+        "correct_answer": "Shangri-La",
+        "choices": [
+            "Ascension",
+            "Moon",
+            "Die Rise",
+            "Shangri-La"
+        ],
+        "category": 15
+    },
+    {
+        "question": "The Internet Meme \"All your base are belong to us\" is based on the poorly translated English Version of which Video Game?",
+        "correct_answer": "Zero Wing",
+        "choices": [
+            "F-Zero",
+            "Wing Commander",
+            "Star Wars: X-Wing",
+            "Zero Wing"
+        ],
+        "category": 15
+    },
+    {
+        "question": "How many controllers could a Nintendo GameCube have plugged in at one time?",
+        "correct_answer": "4",
+        "choices": [
+            "8",
+            "6",
+            "2",
+            "4"
+        ],
+        "category": 15
+    },
+    {
+        "question": "Who is the main protagonist in Danganronpa 2: Goodbye Despair?",
+        "correct_answer": "Hajime Hinata",
+        "choices": [
+            "Nagito Komaeda",
+            "Makoto Naegi",
+            "Junko Enoshima",
+            "Hajime Hinata"
+        ],
+        "category": 15
+    },
+    {
+        "question": "In Left 4 Dead, which campaign has the protagonists going through a subway in order to reach a hospital for evacuation?",
+        "correct_answer": "No Mercy",
+        "choices": [
+            "Subway Sprint",
+            "Hospital Havoc",
+            "Blood Harvest",
+            "No Mercy"
+        ],
+        "category": 15
+    },
+    {
+        "question": "In \"PAYDAY 2\", what weapon has the highest base weapon damage on a per-shot basis?",
+        "correct_answer": "HRL-7",
+        "choices": [
+            "Heavy Crossbow",
+            "Thanatos .50 cal",
+            "Broomstick Pistol",
+            "HRL-7"
+        ],
+        "category": 15
+    },
+    {
+        "question": "Which one of these nations was added to Civilization V with the \"Gods & Kings\" expansion?",
+        "correct_answer": "The Netherlands",
+        "choices": [
+            "The Zulu",
+            "The Ottomans",
+            "The Kongo",
+            "The Netherlands"
+        ],
+        "category": 15
+    },
+    {
+        "question": "Which game did \"Sonic The Hedgehog\" make his first appearance in?",
+        "correct_answer": "Rad Mobile",
+        "choices": [
+            "Sonic The Hedgehog",
+            "Super Mario 64",
+            "Mega Man",
+            "Rad Mobile"
+        ],
+        "category": 15
+    },
+    {
+        "question": "How many games are there in the \"Colony Wars\" series for the PlayStation?",
+        "correct_answer": "3",
+        "choices": [
+            "2",
+            "4",
+            "5",
+            "3"
+        ],
+        "category": 15
+    },
+    {
+        "question": "Which gas forms about 78% of the Earth’s atmosphere?",
+        "correct_answer": "Nitrogen",
+        "choices": [
+            "Oxygen",
+            "Argon",
+            "Carbon Dioxide",
+            "Nitrogen"
+        ],
+        "category": 17
+    },
+    {
+        "question": "How many planets are in our Solar System?",
+        "correct_answer": "Eight",
+        "choices": [
+            "Nine",
+            "Seven",
+            "Ten",
+            "Eight"
+        ],
+        "category": 17
+    },
+    {
+        "question": "What is the scientific term for 'taste'?",
+        "correct_answer": "Gustatory Perception",
+        "choices": [
+            "Olfaction",
+            "Somatosensation",
+            "Auditory Perception",
+            "Gustatory Perception"
+        ],
+        "category": 17
+    },
+    {
+        "question": "What animal takes part in Schrödinger's most famous thought experiment?",
+        "correct_answer": "Cat",
+        "choices": [
+            "Dog",
+            "Bat",
+            "Butterfly",
+            "Cat"
+        ],
+        "category": 17
+    },
+    {
+        "question": "What is the \"powerhouse\" of the Eukaryotic animal cell?",
+        "correct_answer": "Mitochondria",
+        "choices": [
+            "Nucleus",
+            "Chloroplast",
+            "Endoplasmic Reticulum",
+            "Mitochondria"
+        ],
+        "category": 17
+    },
+    {
+        "question": "This element, when overcome with extreme heat and pressure, creates diamonds.",
+        "correct_answer": "Carbon",
+        "choices": [
+            "Nitrogen",
+            "Oxygen",
+            "Hydrogen",
+            "Carbon"
+        ],
+        "category": 17
+    },
+    {
+        "question": "Which color cannot be produced in Roses, even through genetic alteration?",
+        "correct_answer": "Blue",
+        "choices": [
+            "Black",
+            "Orange",
+            "Brown",
+            "Blue"
+        ],
+        "category": 17
+    },
+    {
+        "question": "Where did the dog breed \"Chihuahua\" originate?",
+        "correct_answer": "Mexico",
+        "choices": [
+            "France",
+            "Spain",
+            "Russia",
+            "Mexico"
+        ],
+        "category": 17
+    },
+    {
+        "question": "Which of the following is NOT a passive electrical component?",
+        "correct_answer": "Transistor",
+        "choices": [
+            "Resistor",
+            "Capacitor",
+            "Inductor",
+            "Transistor"
+        ],
+        "category": 17
+    },
+    {
+        "question": "Which of the following men does not have a chemical element named after him?",
+        "correct_answer": "Sir Isaac Newton",
+        "choices": [
+            "Albert Einstein",
+            "Niels Bohr",
+            "Enrico Fermi",
+            "Sir Isaac Newton"
+        ],
+        "category": 17
+    },
+    {
+        "question": "How many kilobytes in one gigabyte (in decimal)?",
+        "correct_answer": "1000000",
+        "choices": [
+            "1024",
+            "1000",
+            "1048576",
+            "1000000"
+        ],
+        "category": 18
+    },
+    {
+        "question": "Which computer language would you associate Django framework with?",
+        "correct_answer": "Python",
+        "choices": [
+            "C#",
+            "C++",
+            "Java",
+            "Python"
+        ],
+        "category": 18
+    },
+    {
+        "question": "Which programming language was developed by Sun Microsystems in 1995?",
+        "correct_answer": "Java",
+        "choices": [
+            "Python",
+            "Solaris OS",
+            "C++",
+            "Java"
+        ],
+        "category": 18
+    },
+    {
+        "question": "What amount of bits commonly equals one byte?",
+        "correct_answer": "8",
+        "choices": [
+            "1",
+            "2",
+            "64",
+            "8"
+        ],
+        "category": 18
+    },
+    {
+        "question": "Lenovo acquired IBM's personal computer division, including the ThinkPad line of laptops and tablets, in what year?",
+        "correct_answer": "2005",
+        "choices": [
+            "1999",
+            "2002",
+            "2008",
+            "2005"
+        ],
+        "category": 18
+    },
+    {
+        "question": "What does the 'S' in the RSA encryption algorithm stand for?",
+        "correct_answer": "Shamir",
+        "choices": [
+            "Secure",
+            "Schottky",
+            "Stable",
+            "Shamir"
+        ],
+        "category": 18
+    },
+    {
+        "question": "In \"Hexadecimal\", what color would be displayed from the color code? \"#00FF00\"?",
+        "correct_answer": "Green",
+        "choices": [
+            "Red",
+            "Blue",
+            "Yellow",
+            "Green"
+        ],
+        "category": 18
+    },
+    {
+        "question": "What did the name of the Tor Anonymity Network orignially stand for?",
+        "correct_answer": "The Onion Router",
+        "choices": [
+            "The Only Router",
+            "The Orange Router",
+            "The Ominous Router",
+            "The Onion Router"
+        ],
+        "category": 18
+    },
+    {
+        "question": "What does LTS stand for in the software market?",
+        "correct_answer": "Long Term Support",
+        "choices": [
+            "Long Taco Service",
+            "Ludicrous Transfer Speed",
+            "Ludicrous Turbo Speed",
+            "Long Term Support"
+        ],
+        "category": 18
+    },
+    {
+        "question": ".rs is the top-level domain for what country?",
+        "correct_answer": "Serbia",
+        "choices": [
+            "Romania",
+            "Russia",
+            "Rwanda",
+            "Serbia"
+        ],
+        "category": 18
+    },
+    {
+        "question": "Which team was the 2014-2015 NBA Champions?",
+        "correct_answer": "Golden State Warriors",
+        "choices": [
+            "Cleveland Cavaliers",
+            "Houston Rockets",
+            "Atlanta Hawks",
+            "Golden State Warriors"
+        ],
+        "category": 21
+    },
+    {
+        "question": "Which driver has been the Formula 1 world champion for a record 7 times?",
+        "correct_answer": "Michael Schumacher",
+        "choices": [
+            "Ayrton Senna",
+            "Fernando Alonso",
+            "Jim Clark",
+            "Michael Schumacher"
+        ],
+        "category": 21
+    },
+    {
+        "question": "The Mazda 787B won the 24 Hours of Le Mans in what year?",
+        "correct_answer": "1991",
+        "choices": [
+            "1990",
+            "2000",
+            "1987",
+            "1991"
+        ],
+        "category": 21
+    },
+    {
+        "question": "Which two teams played in Super Bowl XLII?",
+        "correct_answer": "The New York Giants & The New England Patriots",
+        "choices": [
+            "The Green Bay Packers & The Pittsburgh Steelers",
+            "The Philadelphia Eagles & The New England Patriots",
+            "The Seattle Seahawks & The Denver Broncos",
+            "The New York Giants & The New England Patriots"
+        ],
+        "category": 21
+    },
+    {
+        "question": "In bowling, what is the term used for getting three consecutive strikes?",
+        "correct_answer": "Turkey",
+        "choices": [
+            "Flamingo",
+            "Birdie",
+            "Eagle",
+            "Turkey"
+        ],
+        "category": 21
+    },
+    {
+        "question": "Which NBA player has the most games played over the course of their career?",
+        "correct_answer": "Robert Parish",
+        "choices": [
+            "Kareem Abdul-Jabbar",
+            "Kevin Garnett",
+            "Kobe Bryant",
+            "Robert Parish"
+        ],
+        "category": 21
+    },
+    {
+        "question": "Which city features all of their professional sports teams' jersey's with the same color scheme?",
+        "correct_answer": "Pittsburgh",
+        "choices": [
+            "New York",
+            "Seattle",
+            "Tampa Bay",
+            "Pittsburgh"
+        ],
+        "category": 21
+    },
+    {
+        "question": "Which country hosted the 2020 Summer Olympics?",
+        "correct_answer": "Japan",
+        "choices": [
+            "China",
+            "Australia",
+            "Germany",
+            "Japan"
+        ],
+        "category": 21
+    },
+    {
+        "question": "Which team was the 2015-2016 NBA Champions?",
+        "correct_answer": "Cleveland Cavaliers",
+        "choices": [
+            "Golden State Warriors",
+            "Toronto Raptors",
+            "Oklahoma City Thunders",
+            "Cleveland Cavaliers"
+        ],
+        "category": 21
+    },
+    {
+        "question": "How many points did LeBron James score in his first NBA game?",
+        "correct_answer": "25",
+        "choices": [
+            "19",
+            "69",
+            "41",
+            "25"
+        ],
+        "category": 21
+    },
+    {
+        "question": "If soccer is called football in England, what is American football called in England?",
+        "correct_answer": "American football",
+        "choices": [
+            "Combball",
+            "Handball",
+            "Touchdown",
+            "American football"
+        ],
+        "category": 22
+    },
+    {
+        "question": "What is the most common climbing route for the second highest mountain in the world, K2?",
+        "correct_answer": "Abruzzi Spur",
+        "choices": [
+            "Magic Line",
+            "Cesen Route",
+            "Polish Line",
+            "Abruzzi Spur"
+        ],
+        "category": 22
+    },
+    {
+        "question": "Which English county will you find the University of East Anglia?",
+        "correct_answer": "Norfolk",
+        "choices": [
+            "Suffolk",
+            "Essex",
+            "Cambridgeshire",
+            "Norfolk"
+        ],
+        "category": 22
+    },
+    {
+        "question": "What mountain range lines the border between Spain and France?",
+        "correct_answer": "Pyrenees",
+        "choices": [
+            "Alps",
+            "Carpathians",
+            "Urals",
+            "Pyrenees"
+        ],
+        "category": 22
+    },
+    {
+        "question": "Which of the following is NOT a capital city?",
+        "correct_answer": "Sydney",
+        "choices": [
+            "Cairo",
+            "Moscow",
+            "Beijing",
+            "Sydney"
+        ],
+        "category": 22
+    },
+    {
+        "question": "What is the capital of Seychelles?",
+        "correct_answer": "Victoria",
+        "choices": [
+            "Luanda",
+            "N'Djamena",
+            "Tripoli",
+            "Victoria"
+        ],
+        "category": 22
+    },
+    {
+        "question": "Which of these cities has a 4° East longitude. ",
+        "correct_answer": "Amsterdam",
+        "choices": [
+            "Rio de Janero",
+            "Toronto",
+            "Hong Kong",
+            "Amsterdam"
+        ],
+        "category": 22
+    },
+    {
+        "question": "Which country was NOT part of the Soviet Union?",
+        "correct_answer": "Romania",
+        "choices": [
+            "Turkmenistan",
+            "Belarus",
+            "Tajikistan",
+            "Romania"
+        ],
+        "category": 22
+    },
+    {
+        "question": "The Space Needle is located in which city?",
+        "correct_answer": "Seattle",
+        "choices": [
+            "Los Angles",
+            "Toronto",
+            "Vancouver",
+            "Seattle"
+        ],
+        "category": 22
+    },
+    {
+        "question": "Which of the following countries does NOT recognize Armenia as an independent country?",
+        "correct_answer": "Pakistan",
+        "choices": [
+            "Iran",
+            "Turkey",
+            "Azerbaijan",
+            "Pakistan"
+        ],
+        "category": 22
+    },
+    {
+        "question": "On what street did the 1666 Great Fire of London start?",
+        "correct_answer": "Pudding Lane",
+        "choices": [
+            "Baker Street",
+            "Houses of Parliament",
+            "St Paul's Cathedral",
+            "Pudding Lane"
+        ],
+        "category": 23
+    },
+    {
+        "question": "The Bohemian Revolt (1618-1620) started after Protestants in Prague did what to their Catholic Lords Regents?",
+        "correct_answer": "Threw them out of a window",
+        "choices": [
+            "Insulted their mothers",
+            "Locked them in stockades",
+            "Hung them.",
+            "Threw them out of a window"
+        ],
+        "category": 23
+    },
+    {
+        "question": "Which Nazi General was known as the \"Desert Fox\"?",
+        "correct_answer": "Erwin Rommel",
+        "choices": [
+            "Gerd von Rundstadt",
+            "Wilhelm Keitel",
+            "Heinz Guderian ",
+            "Erwin Rommel"
+        ],
+        "category": 23
+    },
+    {
+        "question": "During the Roman Triumvirate of 42 BCE, what region of the Roman Republic was given to Lepidus?",
+        "correct_answer": "Hispania ",
+        "choices": [
+            "Italia",
+            "Gallia",
+            "Asia",
+            "Hispania "
+        ],
+        "category": 23
+    },
+    {
+        "question": "Which one of these was not a beach landing site in the Invasion of Normandy?",
+        "correct_answer": "Silver",
+        "choices": [
+            "Gold",
+            "Juno",
+            "Sword",
+            "Silver"
+        ],
+        "category": 23
+    },
+    {
+        "question": "After his loss at the Battle of Waterloo, Napoleon Bonaparte was exiled to which island?",
+        "correct_answer": "St. Helena",
+        "choices": [
+            "Elba",
+            "Corsica",
+            "Canary",
+            "St. Helena"
+        ],
+        "category": 23
+    },
+    {
+        "question": "During the Spanish Civil War (1936), Francisco Franco fought for which political faction?",
+        "correct_answer": "Nationalist Spain",
+        "choices": [
+            "Republican Spain",
+            "Popular Front",
+            "Papal State",
+            "Nationalist Spain"
+        ],
+        "category": 23
+    },
+    {
+        "question": "What was Napoleon Bonaparte's name before he changed it?",
+        "correct_answer": "Napoleone di Buonaparte",
+        "choices": [
+            "Naapolion van Bonijpaart",
+            "Napoleão do Boaparte",
+            "Napoleona de Buenoparte",
+            "Napoleone di Buonaparte"
+        ],
+        "category": 23
+    },
+    {
+        "question": "When did L. L. Zamenhof first publish \"Unua Libro\", the first publication describing his international language Esperanto?",
+        "correct_answer": "1887",
+        "choices": [
+            "1897",
+            "1905",
+            "1915",
+            "1887"
+        ],
+        "category": 23
+    },
+    {
+        "question": "The Ottoman Empire was dissolved after their loss in which war?",
+        "correct_answer": "World War I",
+        "choices": [
+            "Crimean War",
+            "Serbian Revolution",
+            "Second Balkan War",
+            "World War I"
+        ],
+        "category": 23
+    },
+    {
+        "question": "Which artist's style was to use small different colored dots to create a picture?",
+        "correct_answer": "Georges Seurat",
+        "choices": [
+            "Paul Cézanne",
+            "Vincent Van Gogh",
+            "Henri Rousseau",
+            "Georges Seurat"
+        ],
+        "category": 25
+    },
+    {
+        "question": "Who painted the Sistine Chapel?",
+        "correct_answer": "Michelangelo",
+        "choices": [
+            "Leonardo da Vinci",
+            "Pablo Picasso",
+            "Raphael",
+            "Michelangelo"
+        ],
+        "category": 25
+    },
+    {
+        "question": "Which Van Gogh painting depicts the view from his asylum in Saint-Rémy-de-Provence in southern France?",
+        "correct_answer": "The Starry Night",
+        "choices": [
+            "Wheatfields with Crows",
+            "The Sower with Setting Sun",
+            "The Church at Auvers",
+            "The Starry Night"
+        ],
+        "category": 25
+    },
+    {
+        "question": "Who painted the epic mural Guernica?",
+        "correct_answer": "Pablo Picasso",
+        "choices": [
+            "Francisco Goya",
+            "Leonardo da Vinci",
+            "Henri Matisse",
+            "Pablo Picasso"
+        ],
+        "category": 25
+    },
+    {
+        "question": "Who painted \"The Starry Night\"?",
+        "correct_answer": "Vincent van Gogh",
+        "choices": [
+            "Edvard Munch",
+            "Pablo Picasso",
+            "Claude Monet",
+            "Vincent van Gogh"
+        ],
+        "category": 25
+    },
+    {
+        "question": "What nationality was the surrealist painter Salvador Dali?",
+        "correct_answer": "Spanish",
+        "choices": [
+            "Italian",
+            "French",
+            "Portuguese",
+            "Spanish"
+        ],
+        "category": 25
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "correct_answer": "Leonardo da Vinci ",
+        "choices": [
+            "Pablo Picasso",
+            " Vincent van Gogh",
+            "Michelangelo",
+            "Leonardo da Vinci "
+        ],
+        "category": 25
+    },
+    {
+        "question": "The painting \"The Starry Night\" by Vincent van Gogh was part of which art movement?",
+        "correct_answer": "Post-Impressionism",
+        "choices": [
+            "Romanticism",
+            "Neoclassical",
+            "Impressionism",
+            "Post-Impressionism"
+        ],
+        "category": 25
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "correct_answer": "Leonardo da Vinci",
+        "choices": [
+            "Pablo Picasso",
+            "Claude Monet",
+            "Vincent van Gogh",
+            "Leonardo da Vinci"
+        ],
+        "category": 25
+    },
+    {
+        "question": "Painter Piet Mondrian (1872 - 1944) was a part of what movement?",
+        "correct_answer": "Neoplasticism",
+        "choices": [
+            "Precisionism",
+            "Cubism",
+            "Impressionism",
+            "Neoplasticism"
+        ],
+        "category": 25
+    },
+    {
+        "question": "What is the name of the family that the domestic cat is a member of?",
+        "correct_answer": "Felidae",
+        "choices": [
+            "Felinae",
+            "Felis",
+            "Cat",
+            "Felidae"
+        ],
+        "category": 27
+    },
+    {
+        "question": "What color/colour is a polar bear's skin?",
+        "correct_answer": "Black",
+        "choices": [
+            "White",
+            "Pink",
+            "Green",
+            "Black"
+        ],
+        "category": 27
+    },
+    {
+        "question": "What scientific family does the Aardwolf belong to?",
+        "correct_answer": "Hyaenidae",
+        "choices": [
+            "Canidae",
+            "Felidae",
+            "Eupleridae",
+            "Hyaenidae"
+        ],
+        "category": 27
+    },
+    {
+        "question": "What is the scientific name of the Common Chimpanzee?",
+        "correct_answer": "Pan troglodytes",
+        "choices": [
+            "Gorilla gorilla",
+            "Pan paniscus",
+            "Panthera leo",
+            "Pan troglodytes"
+        ],
+        "category": 27
+    },
+    {
+        "question": "What is the scientific name of the cheetah?",
+        "correct_answer": "Acinonyx jubatus",
+        "choices": [
+            "Panthera onca",
+            "Lynx rufus",
+            "Felis catus",
+            "Acinonyx jubatus"
+        ],
+        "category": 27
+    },
+    {
+        "question": "What is the common term for bovine spongiform encephalopathy (BSE)?",
+        "correct_answer": "Mad Cow disease",
+        "choices": [
+            "Weil's disease",
+            "Milk fever",
+            "Foot-and-mouth disease",
+            "Mad Cow disease"
+        ],
+        "category": 27
+    },
+    {
+        "question": "What type of animal is a natterjack?",
+        "correct_answer": "Toad",
+        "choices": [
+            "Bird",
+            "Fish",
+            "Insect",
+            "Toad"
+        ],
+        "category": 27
+    },
+    {
+        "question": "What are rhino's horn made of?",
+        "correct_answer": "Keratin",
+        "choices": [
+            "Bone",
+            "Ivory",
+            "Skin",
+            "Keratin"
+        ],
+        "category": 27
+    },
+    {
+        "question": "How many known living species of hyenas are there?",
+        "correct_answer": "4",
+        "choices": [
+            "8",
+            "2",
+            "6",
+            "4"
+        ],
+        "category": 27
+    },
+    {
+        "question": "What is the fastest animal?",
+        "correct_answer": "Peregrine Falcon",
+        "choices": [
+            "Golden Eagle",
+            "Cheetah",
+            "Horsefly",
+            "Peregrine Falcon"
+        ],
+        "category": 27
+    },
+    {
+        "question": "How many fingers does human have?",
+        "correct_answer": "20",
+        "choices": [
+            "10",
+            "15",
+            " 19",
+            " 5",
+            "20"
+        ],
+        "category": 9
+    }
+]
