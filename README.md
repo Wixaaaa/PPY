@@ -1,8 +1,8 @@
 # PPY_Quiz
 
 ## Opis projektu:
-Prosta aplikacja kosnolowa do rozwiązywania quizów. Wykorzystuje [OTDB](https://opentdb.com/) razem z JSON API do pobierania pytań.
-Aplikacja umożliwia także tworzenie własnych pytań. Wyniki i pytania są przchowywane w plikach.
+Prosta aplikacja kosnolowa do rozwiązywania quizów z wybranej kategorii. Wykorzystuje [OTDB](https://opentdb.com/) razem z JSON API do pobierania pytań.
+Aplikacja umożliwia także tworzenie własnych pytań. Wyniki i pytania są przchowywane w plikach JSON.
 
 ## Wymagania:
 1. Dodawanie nowych pytań.
