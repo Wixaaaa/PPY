@@ -39,14 +39,19 @@ def main():
         print("\nMenu:")
         print("1. Start quiz")
         print("2. Add question")
-        print("3. Shopw scores")
+        print("3. Show scores")
         print("4. Get new questions from OTDB")
         print("5. Exit")
 
         choice = input("Select option: ")
             
         if choice == "1":
-            username = input("Enter your username: ")
+            while True:
+                username = input("Enter your username: ")
+                if username:
+                    break
+                else:
+                    username = input("Enter your username: ")
             print("Choose category:")
             for key, value in categories.items():
                 print(f"{key}. {value}")
